@@ -12,7 +12,7 @@
     </div>
     <h3 align="center">atmega328p-sandbox</h3>
     <p align="center">
-        This repository contains a sandbox in the form of a mini-project for learning how to create and understand the ATmega328p microcontroller
+        This repository contains a sandbox in the form of a mini-project for learning how works the ATmega328p microcontroller
         <br />
     </p>
     <p align="center">
