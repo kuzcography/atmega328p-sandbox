@@ -47,7 +47,7 @@ int main(void) {
 				if (PINC != 0b1111111) {
 					break;
 				}
-				
+			
 			default:
 				PORTB = 0b01110110;
 				PORTD = 0b01110110;
